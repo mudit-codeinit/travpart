@@ -1,0 +1,17 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+div#sfsiid_facebook {
+    display: none !important;
+}
+
+div#sfsiid_twitter {
+    display: none !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .fabs{bottom:50px}
+}
+.mobilefooter div.mobilenone div.sfsi_widget {
+    display: none;
+}</style>
+<!-- end Simple Custom CSS and JS -->

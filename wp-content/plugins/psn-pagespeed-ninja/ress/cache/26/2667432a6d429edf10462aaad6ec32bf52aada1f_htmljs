@@ -1,0 +1,1 @@
+<script>try{var google_conversion_id=1044452724;var google_custom_params=window.google_tag_params;var google_remarketing_only=true;$(document).ready(function(){$('#closemobileapp').click(function(){$('.mobileapp').hide();$('.mobileonly').addClass('mobilenone');});})}catch(e){console.log(e)}</script>

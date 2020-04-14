@@ -1,0 +1,332 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.wetxt{
+text-align: center;
+    margin-top: 18px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 38px;
+}
+.tirplanners {
+    text-align: center;
+}
+.tirplanners .triplannerinner {
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+    margin-top: 9px;
+    margin-bottom: 9px;
+      background-color: #368a8c!important;
+    border-radius: 4px;
+  padding: 7px;
+}
+.tripleft {
+    float: left;
+    width: 100px;
+}
+.plannerimg img.lazyloaded {
+    border-radius: 70px;
+}
+.tripright {
+    float: left;
+    width: 53%;
+    vertical-align: middle;
+}
+.triplannerinner.clearfix a {
+    color: #fff;
+}
+.trip1 .triptitle, .trip2 .triptitle , .trip4 .triptitle {
+    padding-top: 22px;
+}
+.trip3 .triptitle {
+    padding-top: 32px;
+}
+.trip5 .triptitle {
+    padding-top: 7px;
+    padding-left: 6px;
+}
+.mobileappcenter {
+    width: 92%;
+    margin: 38px auto;
+}
+.mobileappleft {
+    width: 68%;
+    float: left;
+}
+.mobileappright {
+    width: 310px;
+    float: right;
+}
+.mobileappleft h1 {
+    padding-top: 80px;
+}
+.mobileappleft p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.addtoany_share_save_container.addtoany_content.addtoany_content_bottom {
+    display: none;
+}
+div#hmnewsfeedwidgetactivater-2 {
+    display: none;
+}
+.a2a_kit.a2a_kit_size_32.a2a_floating_style.a2a_vertical_style {
+    display: none !important;
+}
+/* Banner CSS */
+section.elementor-element.elementor-element-067eb51.elementor-section-stretched.elementor-section-height-min-height.elementor-section-full_width.elementor-section-items-stretch.homebannerwrap.elementor-section-height-default.elementor-section.elementor-top-section {
+    background-position: 350px center;
+}
+.homebannerwrap .elementor-widget-wrap {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #1B4140;
+    height: 100%;
+    width: 390px;
+    padding: 10px;
+}
+.homebannertitle p.elementor-heading-title.elementor-size-default {
+    font-size: 32px !important;
+    line-height: 43px;
+}
+.homebannersubtitle p.elementor-heading-title.elementor-size-default {
+   font-size: 17px !important;
+line-height: 24px;
+font-weight: normal;
+}
+
+.homebannertitle p.elementor-heading-title.elementor-size-default {
+    font-size: 25px !important;
+    line-height: 33px;
+}
+.homebannerbtn a {
+    width: 180px !important;
+}
+/*end of Banner CSS*/
+.mobileappslider .figure.swiper-slide-inner{
+    position: relative;
+}
+.mobileappslider figcaption.elementor-image-carousel-caption {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    top: 90px;
+    font-weight: bold;
+    font-style: normal;
+      color: #22b14f;
+    font-size: 14px;
+}
+.btnvtvp {
+    width: 137px;
+    position: relative;
+    top: 28px;
+    display: inline-block;
+}
+a.cusvtbtn {
+    background-color: #23b14d;
+    color: #fff;
+    font-size: 15px;
+    padding: 8px 17px;
+    border-radius: 5px;
+    box-shadow: 0 0 7px 0px #ccc;
+    margin-bottom: 17px;
+    display: inline-block;
+}
+a.cusvpbtn {
+    background-color: #fff;
+    color: #23b14d;
+    padding: 8px 17px;
+    border-radius: 5px;
+    font-size: 15px;
+    box-shadow: 0 0 7px 0px #ccc;
+}
+/*a.cusvtbtn:hover,a.cusvpbtn:hover {
+    color: #61ce70;
+    background-color: #fff;
+}*/
+.elementor-element.cushometit {
+    margin-bottom: 8px;
+}
+.elementor-60 .elementor-element.elementor-element-7425c62 > .elementor-widget-container {
+    margin: 0;
+}
+#hp div#content {
+    background: #eee !important;
+}
+#hp #content .container {
+    background: transparent !important;
+}
+section.elementor-element.elementor-element-94a9138 {
+    margin-bottom: 0;
+    background-color: #fff;
+}
+.elementor-60 .elementor-element.elementor-element-769a95a {
+    margin-top: 30px;
+    margin-bottom: 0;
+  padding-top: 18px;
+    padding-bottom: 18px;
+}
+.elementor-element-ce52361 {
+    background-color: #fff;
+}
+.elementor-element-b018aea {
+    background-color: #fff;
+    padding-bottom: 50px;
+}
+.elementor-60 .elementor-element.elementor-element-f7faead {
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding-top: 18px;
+}
+.elementor-60 .elementor-element.elementor-element-f372ebb {
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+  padding-top:20px;
+}
+.elementor-element-10461ee {
+    background-color: #fff;
+}
+.elementor-60 .elementor-element.elementor-element-8914476 {
+    margin-bottom: 20px;
+}
+.elementor-element-224a120 {
+    width: 73% !important;
+}
+.elementor-element-224a120 .elementor-column-wrap.elementor-element-populated {
+    background-color: #fff !important;
+}
+.slaes_agent .elementor-widget-wrap {
+    background-color: #fff !important;
+}
+.elementor-element-224a120 .elementor-widget-wrap {
+    background-color: #eee;
+}
+.elementor-element-224a120 {
+    width: 73% !important;
+}
+#main-discover {
+    width: 280px!important;
+    padding: 13px 10px;
+    margin-bottom: 10px;
+  margin-left: auto !important;
+    margin-right: auto;
+}
+.elementor-element-dc0b4d1 {
+    background-color: #fff;
+}
+
+
+@media only screen and (max-width: 1024px) {
+.mobileappleft {
+    width: 60%;
+}
+}
+@media only screen and (max-width: 770px) {
+  .mobileappcenter {
+    margin-top: 0;
+}
+  .tripright {
+    width: 49%;
+}
+.tirplanners .triplannerinner {
+    width: 49%;
+    min-height: 160px;
+}
+.tirplanners .triplannerinner {
+    width: 262px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: unset;
+}
+.mobileappleft {
+    width: 100%;
+    float: none;
+}
+.mobileappleft h1 {
+    padding-top: 0;
+}
+.mobileappright {
+    float: none;
+    margin: 0 auto;
+}  
+.homebannerwrap .elementor-widget-wrap {
+    background-color: rgba(27,65,64,0.5);  
+}
+section.elementor-element.elementor-element-067eb51.elementor-section-stretched.elementor-section-height-min-height.elementor-section-full_width.elementor-section-items-stretch.homebannerwrap.elementor-section-height-default.elementor-section.elementor-top-section {
+    background-position: center center;
+}
+}
+@media only screen and (max-width: 760px) {
+ .wetxt{
+margin-left: 0;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+.type-post iframe.lazyloaded{
+ height:300px;
+ margin-top: 20px; 
+  }
+ .vote-inner{
+  flex-wrap: wrap;
+  }
+ .vote-inner {
+    position: fixed;
+    bottom: 0;
+    background-color: #f6f6f6;
+    width: 100%;
+    z-index: 100;
+    bottom: 0;
+    left: 0;
+}
+ .vote-inner .button-flw {
+    display: none;
+}
+  .homebannerwrap .elementor-widget-wrap {
+    width: 100%;
+}
+.elementor-60 .elementor-element.elementor-element-067eb51.homebannerwrap {
+    margin-bottom: 15px;
+}
+.mobileapptit{
+margin-top:116px;
+}
+.mobilesliderwrap{
+  margin:0;
+}
+ .btnvtvp{
+	top:8px;
+}
+
+a.cusvtbtn {
+    font-size: 13px;
+    padding: 5px 17px;
+    margin-bottom: 13px;
+    display: inline-block;
+}
+
+a.cusvpbtn {
+    padding: 5px 17px;
+    font-size: 13px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+ 
+}
+@media only screen and (max-width: 430px) {
+.homebannersubtitle br {
+    display: none;
+}
+.mobileapptit{
+margin-top:100px;
+}  
+}
+@media only screen and (max-width: 350px) {
+.homebannertitle br {
+    display: none;
+}
+}</style>
+<!-- end Simple Custom CSS and JS -->

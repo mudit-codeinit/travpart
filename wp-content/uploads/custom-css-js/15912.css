@@ -1,0 +1,53 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#main-discover{
+	margin-left:0!important;
+}
+.elementor-element-224a120{
+ width:70% !important;
+}
+
+.vouchers-banner a i {
+    padding-right: 103px;
+}
+
+
+.gametooltip .gametooltiptext {
+  visibility: hidden;
+  width: 200px;
+  font-size: initial;
+  background-color: #fff;
+  color: #555;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;;
+  margin-left: -110px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.gametooltip .gametooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #fff transparent transparent transparent;
+}
+
+.gametooltip:hover .gametooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+@media(max-width: 600px){
+	.vouchers-banner a i {
+    padding-right: 0px;
+}
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

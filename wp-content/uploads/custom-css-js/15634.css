@@ -1,0 +1,31 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+.text-80-off{
+	position: absolute;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+}
+
+.text-80-off p{
+    background: #63a08a;
+    padding: 5px 10px;
+    margin: 15px 50px;
+    border-radius: 3px;
+    border: 1px solid #fff;
+    font-size: 15px;
+    font-weight: bold;
+}</style>
+<!-- end Simple Custom CSS and JS -->

@@ -1,0 +1,20 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.vouchers-banner i.fa.fa-info-circle {
+    bottom: 47px;
+    right: -43%;
+    font-size: 12px !important;
+    color: red !important;
+} 
+.text-80-off{
+	    bottom: 35px !important;
+}
+
+@media (max-width: 600px) {
+	.vouchers-banner.vouchers-banner-custom {
+      display: none !important;
+  }
+
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

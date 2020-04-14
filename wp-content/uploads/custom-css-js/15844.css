@@ -1,0 +1,70 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.elementor-slick-slider .slick-arrows-inside .slick-prev {
+    left: -10px!important;
+}
+.elementor-slick-slider .slick-arrows-inside .slick-next {
+    right: 5px;
+}
+.elementor-button .elementor-button-text {
+    display: block;
+}
+section.elementor-element.elementor-element-2b89675.elementor-section-height-min-height.elementor-section-boxed.elementor-section-height-default.elementor-section-items-middle.elementor-section.elementor-top-section {
+    display: none;
+}
+.elementor-60 .elementor-element.elementor-element-163acf2 {
+	margin-top: 0px;
+}
+.elementor-element.elementor-element-15589d6.elementor-widget.elementor-widget-text-editor {
+    direction: inherit;
+}
+input.wpcf7-form-control.wpcf7-text.form-control.date_color {
+    color: #999999;
+}
+div#lb-market-grid {
+    background-color: #eeeeee;
+}
+.elementor-col-33 {
+    width: 50%!important;
+    margin: 25px;
+  	background-color: white;
+    border-radius: 10px;
+}
+section.elementor-element.elementor-element-cfed195.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section {
+    border: 3px solid #3333;
+}
+section.elementor-element.elementor-element-94a9138 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+input.wpcf7-form-control.wpcf7-submit.form-control {
+    background-color: #22b14c !important;
+}
+h4.discover_place {
+    margin-left: 22px;
+}
+a.rtchat.elementor-button-link.elementor-button.elementor-size-sm.elementor-animation-shrink {
+    width: 50%;
+    background-color: #22b14c;
+    border-radius: 0px;
+    margin-left: 60px;
+}
+@media (max-width: 600px){
+.elementor-60 .elementor-element.elementor-element-103f45e > .elementor-element-populated {
+    margin-bottom: 0px; 
+}
+  .elementor-slick-slider .slick-next {
+    right: -10px !important;
+}
+  .elementor-element-224a120{
+ width:100% !important;
+}
+  a.rtchat.elementor-button-link.elementor-button.elementor-size-sm.elementor-animation-shrink {
+    width: 100%;
+    margin-left: 0px;
+}
+}
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->
